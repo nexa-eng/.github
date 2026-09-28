@@ -21,7 +21,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # The default GITHUB_TOKEN can only read this repository. Reading the
       # organization's private repositories needs a token stored as the
