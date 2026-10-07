@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="770" height="154" viewBox="0 0 770 154" role="img" aria-label="nexa-eng commit activity, last 52 weeks: 3126 commits">
-<title>nexa-eng — 3126 commits in the last 52 weeks</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="154" viewBox="0 0 770 154" role="img" aria-label="nexa-eng commit activity, last 52 weeks: 3151 commits">
+<title>nexa-eng — 3151 commits in the last 52 weeks</title>
 <text x="36" y="17" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Dec</text>
 <text x="64" y="17" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Jan</text>
 <text x="176" y="17" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Feb</text>
@@ -253,14 +253,14 @@
 <rect x="498" y="94" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-05" data-count="17"/>
 <rect x="498" y="108" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-06" data-count="14"/>
 <rect x="512" y="24" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-07" data-count="14"/>
-<rect x="512" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-06-08" data-count="21"/>
+<rect x="512" y="38" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-08" data-count="21"/>
 <rect x="512" y="52" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-09" data-count="14"/>
 <rect x="512" y="66" width="11" height="11" rx="2" fill="#39d353" data-date="2026-06-10" data-count="26"/>
 <rect x="512" y="80" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-11" data-count="17"/>
 <rect x="512" y="94" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-12" data-count="15"/>
 <rect x="512" y="108" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-13" data-count="19"/>
 <rect x="526" y="24" width="11" height="11" rx="2" fill="#39d353" data-date="2026-06-14" data-count="42"/>
-<rect x="526" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-06-15" data-count="21"/>
+<rect x="526" y="38" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-15" data-count="21"/>
 <rect x="526" y="52" width="11" height="11" rx="2" fill="#006d32" data-date="2026-06-16" data-count="5"/>
 <rect x="526" y="66" width="11" height="11" rx="2" fill="#26a641" data-date="2026-06-17" data-count="13"/>
 <rect x="526" y="80" width="11" height="11" rx="2" fill="#39d353" data-date="2026-06-18" data-count="39"/>
@@ -292,7 +292,7 @@
 <rect x="582" y="52" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-14" data-count="14"/>
 <rect x="582" y="66" width="11" height="11" rx="2" fill="#006d32" data-date="2026-07-15" data-count="3"/>
 <rect x="582" y="80" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-16" data-count="12"/>
-<rect x="582" y="94" width="11" height="11" rx="2" fill="#39d353" data-date="2026-07-17" data-count="21"/>
+<rect x="582" y="94" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-17" data-count="21"/>
 <rect x="582" y="108" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-18" data-count="11"/>
 <rect x="596" y="24" width="11" height="11" rx="2" fill="#39d353" data-date="2026-07-19" data-count="25"/>
 <rect x="596" y="38" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-20" data-count="20"/>
@@ -300,7 +300,7 @@
 <rect x="596" y="66" width="11" height="11" rx="2" fill="#39d353" data-date="2026-07-22" data-count="33"/>
 <rect x="596" y="80" width="11" height="11" rx="2" fill="#39d353" data-date="2026-07-23" data-count="50"/>
 <rect x="596" y="94" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-24" data-count="14"/>
-<rect x="596" y="108" width="11" height="11" rx="2" fill="#39d353" data-date="2026-07-25" data-count="21"/>
+<rect x="596" y="108" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-25" data-count="21"/>
 <rect x="610" y="24" width="11" height="11" rx="2" fill="#39d353" data-date="2026-07-26" data-count="31"/>
 <rect x="610" y="38" width="11" height="11" rx="2" fill="#26a641" data-date="2026-07-27" data-count="20"/>
 <rect x="610" y="52" width="11" height="11" rx="2" fill="#006d32" data-date="2026-07-28" data-count="4"/>
@@ -331,13 +331,13 @@
 <rect x="652" y="108" width="11" height="11" rx="2" fill="#006d32" data-date="2026-08-22" data-count="10"/>
 <rect x="666" y="24" width="11" height="11" rx="2" fill="#006d32" data-date="2026-08-23" data-count="7"/>
 <rect x="666" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-08-24" data-count="88"/>
-<rect x="666" y="52" width="11" height="11" rx="2" fill="#39d353" data-date="2026-08-25" data-count="21"/>
+<rect x="666" y="52" width="11" height="11" rx="2" fill="#26a641" data-date="2026-08-25" data-count="21"/>
 <rect x="666" y="66" width="11" height="11" rx="2" fill="#006d32" data-date="2026-08-26" data-count="5"/>
 <rect x="666" y="80" width="11" height="11" rx="2" fill="#006d32" data-date="2026-08-27" data-count="5"/>
 <rect x="666" y="94" width="11" height="11" rx="2" fill="#006d32" data-date="2026-08-28" data-count="10"/>
 <rect x="666" y="108" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-08-29" data-count="1"/>
 <rect x="680" y="24" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-08-30" data-count="1"/>
-<rect x="680" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-08-31" data-count="21"/>
+<rect x="680" y="38" width="11" height="11" rx="2" fill="#26a641" data-date="2026-08-31" data-count="21"/>
 <rect x="680" y="52" width="11" height="11" rx="2" fill="#39d353" data-date="2026-09-01" data-count="50"/>
 <rect x="680" y="66" width="11" height="11" rx="2" fill="#39d353" data-date="2026-09-02" data-count="40"/>
 <rect x="680" y="80" width="11" height="11" rx="2" fill="#39d353" data-date="2026-09-03" data-count="26"/>
@@ -351,10 +351,10 @@
 <rect x="694" y="94" width="11" height="11" rx="2" fill="#26a641" data-date="2026-09-11" data-count="19"/>
 <rect x="694" y="108" width="11" height="11" rx="2" fill="#006d32" data-date="2026-09-12" data-count="3"/>
 <rect x="708" y="24" width="11" height="11" rx="2" fill="#006d32" data-date="2026-09-13" data-count="4"/>
-<rect x="708" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-09-14" data-count="21"/>
+<rect x="708" y="38" width="11" height="11" rx="2" fill="#26a641" data-date="2026-09-14" data-count="21"/>
 <rect x="708" y="52" width="11" height="11" rx="2" fill="#006d32" data-date="2026-09-15" data-count="4"/>
 <rect x="708" y="66" width="11" height="11" rx="2" fill="#26a641" data-date="2026-09-16" data-count="11"/>
-<rect x="708" y="80" width="11" height="11" rx="2" fill="#39d353" data-date="2026-09-17" data-count="21"/>
+<rect x="708" y="80" width="11" height="11" rx="2" fill="#26a641" data-date="2026-09-17" data-count="21"/>
 <rect x="708" y="94" width="11" height="11" rx="2" fill="#006d32" data-date="2026-09-18" data-count="5"/>
 <rect x="708" y="108" width="11" height="11" rx="2" fill="#161b22" data-date="2026-09-19" data-count="0"/>
 <rect x="722" y="24" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-09-20" data-count="1"/>
@@ -373,8 +373,9 @@
 <rect x="736" y="108" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-03" data-count="7"/>
 <rect x="750" y="24" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-04" data-count="10"/>
 <rect x="750" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-05" data-count="102"/>
-<rect x="750" y="52" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-10-06" data-count="2"/>
-<text x="36" y="138" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">3,126 commits in the last year · 37 active repositories · updated 2026-10-06 (JST)</text>
+<rect x="750" y="52" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-06" data-count="24"/>
+<rect x="750" y="66" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-07" data-count="3"/>
+<text x="36" y="138" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">3,151 commits in the last year · 38 active repositories · updated 2026-10-07 (JST)</text>
 <text x="644" y="138" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="end">Less</text>
 <rect x="648" y="129" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="662" y="129" width="11" height="11" rx="2" fill="#0e4429"/>
