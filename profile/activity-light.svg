@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="770" height="154" viewBox="0 0 770 154" role="img" aria-label="nexa-eng commit activity, last 52 weeks: 3442 commits">
-<title>nexa-eng — 3442 commits in the last 52 weeks</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="154" viewBox="0 0 770 154" role="img" aria-label="nexa-eng commit activity, last 52 weeks: 3445 commits">
+<title>nexa-eng — 3445 commits in the last 52 weeks</title>
 <text x="36" y="17" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Dec</text>
 <text x="50" y="17" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Jan</text>
 <text x="162" y="17" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Feb</text>
@@ -236,7 +236,7 @@
 <rect x="470" y="52" width="11" height="11" rx="2" fill="#216e39" data-date="2026-05-26" data-count="43"/>
 <rect x="470" y="66" width="11" height="11" rx="2" fill="#40c463" data-date="2026-05-27" data-count="10"/>
 <rect x="470" y="80" width="11" height="11" rx="2" fill="#216e39" data-date="2026-05-28" data-count="32"/>
-<rect x="470" y="94" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-05-29" data-count="23"/>
+<rect x="470" y="94" width="11" height="11" rx="2" fill="#216e39" data-date="2026-05-29" data-count="23"/>
 <rect x="470" y="108" width="11" height="11" rx="2" fill="#40c463" data-date="2026-05-30" data-count="11"/>
 <rect x="484" y="24" width="11" height="11" rx="2" fill="#9be9a8" data-date="2026-05-31" data-count="2"/>
 <rect x="484" y="38" width="11" height="11" rx="2" fill="#40c463" data-date="2026-06-01" data-count="9"/>
@@ -306,7 +306,7 @@
 <rect x="610" y="52" width="11" height="11" rx="2" fill="#216e39" data-date="2026-08-04" data-count="54"/>
 <rect x="610" y="66" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-08-05" data-count="14"/>
 <rect x="610" y="80" width="11" height="11" rx="2" fill="#216e39" data-date="2026-08-06" data-count="28"/>
-<rect x="610" y="94" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-08-07" data-count="23"/>
+<rect x="610" y="94" width="11" height="11" rx="2" fill="#216e39" data-date="2026-08-07" data-count="23"/>
 <rect x="610" y="108" width="11" height="11" rx="2" fill="#40c463" data-date="2026-08-08" data-count="7"/>
 <rect x="624" y="24" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-08-09" data-count="18"/>
 <rect x="624" y="38" width="11" height="11" rx="2" fill="#40c463" data-date="2026-08-10" data-count="7"/>
@@ -376,8 +376,9 @@
 <rect x="750" y="52" width="11" height="11" rx="2" fill="#216e39" data-date="2026-10-13" data-count="41"/>
 <rect x="750" y="66" width="11" height="11" rx="2" fill="#216e39" data-date="2026-10-14" data-count="33"/>
 <rect x="750" y="80" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-10-15" data-count="14"/>
-<rect x="750" y="94" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-10-16" data-count="14"/>
-<text x="36" y="138" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">3,442 commits in the last year · 39 active repositories · updated 2026-10-17 (JST)</text>
+<rect x="750" y="94" width="11" height="11" rx="2" fill="#30a14e" data-date="2026-10-16" data-count="16"/>
+<rect x="750" y="108" width="11" height="11" rx="2" fill="#9be9a8" data-date="2026-10-17" data-count="1"/>
+<text x="36" y="138" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">3,445 commits in the last year · 39 active repositories · updated 2026-10-18 (JST)</text>
 <text x="644" y="138" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="end">Less</text>
 <rect x="648" y="129" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="662" y="129" width="11" height="11" rx="2" fill="#9be9a8"/>
