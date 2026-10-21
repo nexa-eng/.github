@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="770" height="154" viewBox="0 0 770 154" role="img" aria-label="nexa-eng commit activity, last 52 weeks: 3561 commits">
-<title>nexa-eng — 3561 commits in the last 52 weeks</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="154" viewBox="0 0 770 154" role="img" aria-label="nexa-eng commit activity, last 52 weeks: 3572 commits">
+<title>nexa-eng — 3572 commits in the last 52 weeks</title>
 <text x="36" y="17" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Jan</text>
 <text x="148" y="17" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Feb</text>
 <text x="260" y="17" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">Mar</text>
@@ -372,8 +372,9 @@
 <rect x="736" y="108" width="11" height="11" rx="2" fill="#0e4429" data-date="2026-10-17" data-count="2"/>
 <rect x="750" y="24" width="11" height="11" rx="2" fill="#161b22" data-date="2026-10-18" data-count="0"/>
 <rect x="750" y="38" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-19" data-count="64"/>
-<rect x="750" y="52" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-20" data-count="50"/>
-<text x="36" y="138" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">3,561 commits in the last year · 39 active repositories · updated 2026-10-21 (JST)</text>
+<rect x="750" y="52" width="11" height="11" rx="2" fill="#39d353" data-date="2026-10-20" data-count="52"/>
+<rect x="750" y="66" width="11" height="11" rx="2" fill="#006d32" data-date="2026-10-21" data-count="8"/>
+<text x="36" y="138" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">3,572 commits in the last year · 39 active repositories · updated 2026-10-22 (JST)</text>
 <text x="644" y="138" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="end">Less</text>
 <rect x="648" y="129" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="662" y="129" width="11" height="11" rx="2" fill="#0e4429"/>
